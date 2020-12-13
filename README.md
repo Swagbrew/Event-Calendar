@@ -1,4 +1,4 @@
-# Event Calendar
+## Event Calendar
 > Event calendar with the function of displaying free time.
 
 ## General info
